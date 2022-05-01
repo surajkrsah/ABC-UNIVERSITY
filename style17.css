@@ -1,0 +1,15 @@
+/* Add here all your css styles (customizations) */
+@media all and (max-width: 480px) and (min-width: 250px){
+.mb10-xs{
+margin-bottom:10px;
+}
+.full_citation {
+    width: 100% !important;
+}
+.br1, .full_citation{
+border:0px !important;
+}
+
+
+
+}

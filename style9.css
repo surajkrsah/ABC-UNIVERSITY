@@ -1,0 +1,9 @@
+.map{width:100%;height:350px;border-top:solid 1px #eee;border-bottom:solid 1px #eee;}
+.map img{max-width:none;}
+.map-box{height:250px;}
+.map-box-space{margin-top:15px;}
+.map-box-space1{margin-top:7px;}
+.sky-changes-3.sky-form,
+.sky-changes-3.sky-form footer{border:none;}
+.sky-changes-3.sky-form footer,
+.sky-changes-3.sky-form fieldset{padding:0;background:none;}
